@@ -5,8 +5,8 @@
 2. Run the server with `node server.js`.
 
 3. Run the client in development mode with `npm start` or build the application with `npm run build`.
-In the development mode the client URL is: [http://localhost:3000](http://localhost:3000)
-If you build the app, the client URL is: [http://localhost:8080](http://localhost:8080)
+- In the development mode the client URL is: [http://localhost:3000](http://localhost:3000)
+- If you build the app, the client URL is: [http://localhost:8080](http://localhost:8080)
 
 
 ## Available Scripts
